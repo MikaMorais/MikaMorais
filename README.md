@@ -1,9 +1,11 @@
-### Hi there 👋, Mika Morais
-#### Student and Developer
-
+# Mika Morais
 I'm Mika and as a student and technology enthusiast I'm looking forward to enroll in development front-end and back-end. I like to explore new techniques and knowledge, as well as perfecting them. 
 
-Skills:  JAVA / PYTHON / HTML / CSS / JS /
+##Skills
+* ☕ Java
+* 🐍 Python
+* 💻 HTML, CSS, JS
+
 
 - 🔭 I’m currently working on some Java Projects and a Platform game in Python 
 - 👯 I’m looking to collaborate on any kind of projects. 
