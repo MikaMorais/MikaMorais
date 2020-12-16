@@ -1,6 +1,5 @@
 ### Hi there 👋, Mika Morais
 #### Student and Developer
-![Student and Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Mika and as a student and technology enthusiast I'm looking forward to enroll in development front-end and back-end. I like to explore new techniques and knowledge, as well as perfecting them. 
 
