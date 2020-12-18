@@ -1,5 +1,5 @@
-# Mika Morais
-I'm Mika and as a student and technology enthusiast I'm looking forward to enroll in development front-end and back-end. I like to explore new techniques and knowledge, as well as perfecting them. 
+# Moises Morais
+I'm Moises and as a student and technology enthusiast I'm looking forward to enroll in development front-end and back-end. I like to explore new techniques and knowledge, as well as perfecting them. 
 
 - 🔭 I’m currently working on some Java Projects and a Platform game in Python 
 - 👯 I’m looking to collaborate on any kind of projects. 
