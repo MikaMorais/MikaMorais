@@ -12,7 +12,7 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5&logoColor=FFFFFF)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=FFFFFF)&nbsp;
-![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=FFFFFF)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=Node.js&logoColor=FFFFFF)&nbsp;
 
 
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=FFFFFF)&nbsp;
