@@ -22,6 +22,7 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git&logoColor=FFFFFF)&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)&nbsp; 
+![PycCharm](https://img.shields.io/badge/-PyCharm-05122A?&logo=Python&logoColor=FFFFFF)&nbsp
 ![Eclipse IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF)&nbsp; 
 ![NetBeans IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=FFFFFF)&nbsp;
 
