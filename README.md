@@ -3,7 +3,7 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 
 - :computer: FullStack Developer Jr
 - :city_sunset: São Paulo - SP
-- 🔭 Currently working on some Java Projects and a Platform game in Python 
+- 🔭 Currently working on Java Projects, Python Projects and some college projects
 - 👯 Always open to new possibilities and collaboration on any kind of projects. 
 
 ### 🛠 Languages & Tools
@@ -12,12 +12,17 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5&logoColor=FFFFFF)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=FFFFFF)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=Node.js&logoColor=FFFFFF)&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?logo=Typescript&logoColor=FFFFFF)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?logo=Dart&logoColor=FFFFFF)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?logo=c&logoColor=FFFFFF)&nbsp;
 
 
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=FFFFFF)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL&logoColor=FFFFFF)&nbsp;
 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=Node.js&logoColor=FFFFFF)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?logo=Flutter&logoColor=FFFFFF)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?logo=Angular&logoColor=FFFFFF)&nbsp;
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub&logoColor=FFFFFF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?&logo=git&logoColor=FFFFFF)&nbsp;
@@ -36,6 +41,6 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 ### 📞 Let's Connect?
 Get in touch with me in one of the contact ways below:
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](mika.devs100@gmail.com)&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](mailto:mika.devs100@gmail.com)&nbsp;
 [![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/moises-silva-de-morais/)&nbsp;
 
