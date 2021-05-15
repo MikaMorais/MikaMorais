@@ -7,29 +7,35 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 - 👯 Always open to new possibilities and collaboration on any kind of projects. 
 
 ### 🛠 Languages & Tools
-![Java](https://img.shields.io/badge/-Java-05122A?&logo=Java&logoColor=FFFFFF)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?&logo=Python&logoColor=FFFFFF)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-05122A?&logo=HTML5&logoColor=FFFFFF)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-05122A?&logo=CSS3&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?&logo=JavaScript&logoColor=FFFFFF)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-05122A?logo=Typescript&logoColor=FFFFFF)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?logo=Dart&logoColor=FFFFFF)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?logo=c&logoColor=FFFFFF)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Dart](	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 
-![Oracle](https://img.shields.io/badge/-Oracle-05122A?&logo=Oracle&logoColor=FFFFFF)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?&logo=MySQL&logoColor=FFFFFF)&nbsp;
+![Oracle](https://img.shields.io/badge/Oracle-DC322F?style=for-the-badge&logo=Oracle&logoColor=FFFFFF)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+![SqlServer](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?logo=Node.js&logoColor=FFFFFF)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?logo=Flutter&logoColor=FFFFFF)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-05122A?logo=Angular&logoColor=FFFFFF)&nbsp;
 
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?&logo=GitHub&logoColor=FFFFFF)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?&logo=git&logoColor=FFFFFF)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-05122A?&logo=Visual%20Studio%20Code&logoColor=FFFFFF)&nbsp; 
-![PycCharm](https://img.shields.io/badge/-PyCharm-05122A?&logo=Python&logoColor=FFFFFF)&nbsp;
-![Eclipse IDE](https://img.shields.io/badge/-NetBeans%20IDE-05122A?&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF)&nbsp; 
-![NetBeans IDE](https://img.shields.io/badge/-Eclipse%20IDE-05122A?&logo=Eclipse%20IDE&logoColor=FFFFFF)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=ff0000)&nbsp;
+
+
+![PycCharm](https://img.shields.io/badge/PyCharm-43853D?style=for-the-badge&logo=Python&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-042F3C?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=00B2EB)&nbsp;
+![NetBeans IDE](https://img.shields.io/badge/-NetBeans%20IDE-042F3C?style=for-the-badge&logo=Apache%20NetBeans%20IDE&logoColor=FFFFFF)&nbsp; 
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-042F3C?style=for-the-badge&logo=Eclipse%20IDE&logoColor=FFFFFF)&nbsp;
 
 
 
