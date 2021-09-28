@@ -3,7 +3,7 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 
 - :computer: FullStack Developer
 - :city_sunset: São Paulo - SP
-- 🔭 Currently working on Java Projects, Python Projects and some college projects
+- 🔭 Currently working on Java Projects, Python Projects, Game Projects and some college projects
 - 👯 Always open to new possibilities and collaboration on any kind of projects. 
 
 ### 🛠 Languages & Tools
