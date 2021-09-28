@@ -1,7 +1,7 @@
 # Mika Morais
 Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to enroll in fullstack development. I like to explore new techniques and knowledge, as well as perfecting them. 
 
-- :computer: FullStack Developer Jr
+- :computer: FullStack Developer
 - :city_sunset: São Paulo - SP
 - 🔭 Currently working on Java Projects, Python Projects and some college projects
 - 👯 Always open to new possibilities and collaboration on any kind of projects. 
