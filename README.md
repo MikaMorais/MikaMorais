@@ -1,10 +1,13 @@
 # Mika Morais
-Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to enroll in fullstack development. I like to explore new techniques and knowledge, as well as perfecting them. 
+Software developer and technology enthusiast. Experience in software, web development and management.<br/>
+Always exploring new techniques and skills, as well as perfecting them.
 
-- :computer: FullStack Developer
-- :city_sunset: São Paulo - SP
-- 🔭 Currently working on Java Projects, Python Projects, Game Projects and some college projects
-- 👯 Always open to new possibilities and collaboration on any kind of projects. 
+- 💻 FullStack Developer
+- 👨‍🎓 Bachelor of Information Systems
+- 🌆 São Paulo - SP
+- 🔭 Currently working on Web Projects, Java Projects, Python Projects and some Game Projects.
+- 👯 Always up for new projects collaborations and or co-working. 
+
 
 ### 🛠 Languages & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -38,12 +41,4 @@ Hi there, I'm Mika! As student and technology enthusiast I'm looking forward to 
 
 ### 📈 Analytics
 ![Mika GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikaMorais&show_icons=true&theme=radical)
-
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikaMorais&hide=scss&layout=compact&theme=radical)
-
-### 📞 Let's Connect?
-Get in touch with me in one of the contact ways below:
-
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?&logo=Gmail&logoColor=FFFFFF)](mailto:mika.devs100@gmail.com)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-Linkedln-0A66C2?&logo=Linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/moises-silva-de-morais/)&nbsp;
-
